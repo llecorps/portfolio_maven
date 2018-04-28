@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/esspressoh/app/maven/proj/portfolio/portfolio-webapp/src/main/resources/target-dev/info.properties">
+</file>
+<file name="/home/esspressoh/app/maven/proj/portfolio/portfolio-webapp/src/main/resources/target-test/info.properties">
+</file>
+<file name="/home/esspressoh/app/maven/proj/portfolio/portfolio-webapp/src/main/resources/target-prod/info.properties">
+</file>
+</checkstyle>
