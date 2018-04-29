@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="org.lle.appli.consumer.AppTest" time="0.005" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="org.lle.appli.consumer.AppTest" time="0.003" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/esspressoh/app/java/jdk-8/jdk1.8.0_171/jre/lib/amd64"/>
@@ -44,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/home/esspressoh/app/java/jdk-8/jdk1.8.0_171/jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package -Ptarget-dev site site:stage"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package -Ptarget-dev site site:stage javadoc:jar"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -62,5 +62,5 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="org.lle.appli.consumer.AppTest" name="testApp" time="0.005"/>
+  <testcase classname="org.lle.appli.consumer.AppTest" name="testApp" time="0.003"/>
 </testsuite>
